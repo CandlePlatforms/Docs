@@ -1,9 +1,5 @@
 # What is Candle? (CNDL)
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
-
 ### Protocol, Interface, Labs
 
 To begin, we should make clear the distinctions between the different areas of "Candle", some of which may confuse new users.

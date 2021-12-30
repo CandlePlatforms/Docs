@@ -4,7 +4,6 @@
 
 ## Fundamentals
 
-* [Projects](fundamentals/projects.md)
 * [Task Lists](fundamentals/task-lists.md)
 
 ## Use Cases
@@ -18,4 +17,5 @@
 
 ## Extras
 
+* [CandleGovernor Raw](extras/candlegovernor-raw.md)
 * [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
