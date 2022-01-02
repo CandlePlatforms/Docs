@@ -18,5 +18,5 @@
 ## Extras
 
 * [CandleGovernor Raw](extras/candlegovernor-raw.md)
-* [Keyboard Shortcuts](extras/keyboard-shortcuts.md)
+* [TheGraph](extras/keyboard-shortcuts.md)
 * [Candle Raw](extras/candle-raw.md)
