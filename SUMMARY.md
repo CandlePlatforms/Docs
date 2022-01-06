@@ -4,7 +4,9 @@
 
 ## Fundamentals
 
-* [Task Lists](fundamentals/task-lists.md)
+* [Beta](fundamentals/task-lists.md)
+* [Tokenomics](fundamentals/tokenomics.md)
+* [Governance](fundamentals/governance.md)
 
 ## Use Cases
 
@@ -18,5 +20,5 @@
 ## Extras
 
 * [CandleGovernor Raw](extras/candlegovernor-raw.md)
-* [TheGraph](extras/keyboard-shortcuts.md)
+* [API's & Data Explorers](extras/keyboard-shortcuts.md)
 * [Candle Raw](extras/candle-raw.md)
