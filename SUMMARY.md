@@ -8,6 +8,11 @@
 * [Tokenomics](fundamentals/tokenomics.md)
 * [Governance](fundamentals/governance.md)
 
+***
+
+* [Polygon (MATIC)](polygon-matic.md)
+* [Page 1](page-1.md)
+
 ## Use Cases
 
 * [For Designers](use-cases/for-designers/README.md)
