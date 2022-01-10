@@ -11,7 +11,7 @@
 ***
 
 * [Polygon (MATIC)](polygon-matic.md)
-* [Page 1](page-1.md)
+* [Binance Smart Chain (BSC)](binance-smart-chain-bsc.md)
 
 ## Use Cases
 
