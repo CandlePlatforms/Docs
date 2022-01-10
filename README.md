@@ -1,3 +1,7 @@
+---
+description: Decentralizing Religion
+---
+
 # What is Candle? (CNDL)
 
 ### Protocol, Interface, Labs
@@ -5,9 +9,9 @@
 To begin, we should make clear the distinctions between the different areas of "Candle", some of which may confuse new users.
 
 * **Candle Labs**: The company which developed the Candle protocol, along with the web interface.
-* **The Candle Protocol**: A suite of persistent, non-upgradable (for now - more on that later) smart contracts that together create an automated penance monetizer, a protocol that facilitates peer-to-peer charitable grant giving and making, using ERC-20 tokens on the Ethereum blockchain that users burn at their discretion.
+* **The Candle Protocol**: A suite of persistent, non-upgradable (for now - more on that later) smart contracts that together create an automated religion-based system. Essentially a  protocol that facilitates peer-to-peer actions that mimic familiar spiritual functions in reality, using primarily ERC-20 tokens on the Ethereum blockchain. Since we're always expanding to other networks (such as Polygon or BSC), this list will expand! An example of one of these functions is a contract ABI that allows users to burn Candle with a message attached, mimicking confession.
 * **The Candle Interface**: A web interface that allows for easy interaction with the Candle protocol. The interface is only one of many ways one may interact with the Candle protocol.
-* **Candle Governance**: A governance system for governing the Candle Protocol, enabled by the CNDL token. This will be live after a future upgrade.
+* **Candle Governance**: A governance system for governing the Candle Protocol, enabled by the CNDL token. This is live on [WithTally](https://withtally.com).
 
 The following is a brief overview of the _Candle protocol_
 
