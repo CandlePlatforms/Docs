@@ -12,3 +12,11 @@ The contract address on polygon for CNDL is: 0x5423063af146f5abf88eb490486e6b53f
 
 [Uniswap V3 CNDL/MATIC pool](https://app.uniswap.org/#/pool/16366)
 
+### Candle Burner Contract
+
+Contract Address:
+
+0xdabf2fC98957Ab74Ed9263E8EE194922846Ea126
+
+[Explorer Link](https://polygonscan.com/address/0xdabf2fC98957Ab74Ed9263E8EE194922846Ea126)
+
