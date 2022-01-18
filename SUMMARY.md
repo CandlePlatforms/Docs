@@ -8,10 +8,11 @@
 * [Tokenomics](fundamentals/tokenomics.md)
 * [Governance](fundamentals/governance.md)
 
-***
+## Bridged CNDL
 
-* [Polygon (MATIC)](polygon-matic.md)
-* [Binance Smart Chain (BSC)](binance-smart-chain-bsc.md)
+* [Polygon (MATIC)](bridged-cndl/polygon-matic.md)
+* [xDai](bridged-cndl/xdai.md)
+* [Binance Smart Chain (BSC)](bridged-cndl/binance-smart-chain-bsc.md)
 
 ## Use Cases
 
