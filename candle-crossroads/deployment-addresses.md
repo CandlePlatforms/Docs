@@ -14,3 +14,7 @@ Minichef V2: 0x5610933D08f992F7c7d6Aa3f5aC7e356597e84ec
 
 [Explorer Link](https://polygonscan.com/address/0x5610933d08f992f7c7d6aa3f5ac7e356597e84ec#code)
 
+CandleMakerV2 (New): 0x43065E5f1abf284121f31A4FC0d89A90e7504B2A
+
+[Explorer Link](https://polygonscan.com/address/0x43065e5f1abf284121f31a4fc0d89a90e7504b2a#readContract)
+
