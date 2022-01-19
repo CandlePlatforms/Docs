@@ -8,6 +8,10 @@
 * [Tokenomics](fundamentals/tokenomics.md)
 * [Governance](fundamentals/governance.md)
 
+## Candle Crossroads
+
+* [Deployment Addresses](candle-crossroads/deployment-addresses.md)
+
 ## Bridged CNDL
 
 * [Polygon (MATIC)](bridged-cndl/polygon-matic.md)
@@ -18,9 +22,9 @@
 
 * [Gnosis Safe](dao/gnosis-safe.md)
 
-## Use Cases
+## Metadata
 
-* [For Engineers](use-cases/for-engineers.md)
+* [For Engineers](metadata/for-engineers.md)
 
 ## Extras
 
