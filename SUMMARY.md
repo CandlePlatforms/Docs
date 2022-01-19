@@ -14,6 +14,10 @@
 * [xDai](bridged-cndl/xdai.md)
 * [Binance Smart Chain (BSC)](bridged-cndl/binance-smart-chain-bsc.md)
 
+## DAO
+
+* [Gnosis Safe](dao/gnosis-safe.md)
+
 ## Use Cases
 
 * [For Engineers](use-cases/for-engineers.md)
