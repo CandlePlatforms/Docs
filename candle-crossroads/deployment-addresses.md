@@ -6,7 +6,7 @@ Uniswap V2 factory: 0x8397CAe4863825880E1b0000461FfbeCD6686a7e
 
 [Explorer Link](https://polygonscan.com/address/0x8397CAe4863825880E1b0000461FfbeCD6686a7e)
 
-Uniswap V2 Router: 0xE7FB19Ac07B1647aAacfb78dd38eF1e79e701D3c
+Uniswap V2 Router: 0xE7FB19Ac07B1647aAacfb78dd38eF1e79e701D3c (Need to redeploy with correct Init Hash)
 
 [Explorer Link](https://polygonscan.com/address/0xe7fb19ac07b1647aaacfb78dd38ef1e79e701d3c#readContract)
 
@@ -25,4 +25,8 @@ BentoBoxV1: 0x1f19A0643732C48327f8d30e82bD37C9F365a1c2
 Kashi: 0x7e0e948d36F8e69fC2Dd7a9b129Ff4a86787feD8
 
 [Explorer Link](https://polygonscan.com/address/0x7e0e948d36f8e69fc2dd7a9b129ff4a86787fed8#code)
+
+SushiSwapSwapperV1: 0x039f392401B07148b66869bD9C1A7c08b79fEBd0
+
+[Explorer Link](https://polygonscan.com/address/0x039f392401b07148b66869bd9c1a7c08b79febd0#code)
 
