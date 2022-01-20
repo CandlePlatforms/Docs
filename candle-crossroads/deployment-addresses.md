@@ -18,3 +18,7 @@ CandleMakerV2 (New): 0x43065E5f1abf284121f31A4FC0d89A90e7504B2A
 
 [Explorer Link](https://polygonscan.com/address/0x43065e5f1abf284121f31a4fc0d89a90e7504b2a#readContract)
 
+BentoBoxV1: 0x1f19A0643732C48327f8d30e82bD37C9F365a1c2
+
+[Explorer Link](https://polygonscan.com/address/0x1f19a0643732c48327f8d30e82bd37c9f365a1c2#code)
+
