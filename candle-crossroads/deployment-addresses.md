@@ -34,3 +34,7 @@ SushiSwapSwapperV1: 0x039f392401B07148b66869bD9C1A7c08b79fEBd0
 
 [Explorer Link](https://polygonscan.com/address/0x039f392401b07148b66869bd9c1a7c08b79febd0#code)
 
+SushiSwapMultiSwapper: 0x4850Ee9053b50Ec1b65b5082170cB4EB830403CA
+
+[Explorer Link](https://polygonscan.com/address/0x4850ee9053b50ec1b65b5082170cb4eb830403ca)
+
