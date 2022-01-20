@@ -6,6 +6,8 @@ Uniswap V2 factory: 0x8397CAe4863825880E1b0000461FfbeCD6686a7e
 
 [Explorer Link](https://polygonscan.com/address/0x8397CAe4863825880E1b0000461FfbeCD6686a7e)
 
+Init Code Hash: 0x534bcb41719c215bfbb0d9be7aaaeaa869442c025c60f7c06eef21a2f437fb4a
+
 Uniswap V2 Router: 0xE7FB19Ac07B1647aAacfb78dd38eF1e79e701D3c (Need to redeploy with correct Init Hash)
 
 [Explorer Link](https://polygonscan.com/address/0xe7fb19ac07b1647aaacfb78dd38ef1e79e701d3c#readContract)
