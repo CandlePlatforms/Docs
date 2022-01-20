@@ -22,3 +22,7 @@ BentoBoxV1: 0x1f19A0643732C48327f8d30e82bD37C9F365a1c2
 
 [Explorer Link](https://polygonscan.com/address/0x1f19a0643732c48327f8d30e82bd37c9f365a1c2#code)
 
+Kashi: 0x7e0e948d36F8e69fC2Dd7a9b129Ff4a86787feD8
+
+[Explorer Link](https://polygonscan.com/address/0x7e0e948d36f8e69fc2dd7a9b129ff4a86787fed8#code)
+
