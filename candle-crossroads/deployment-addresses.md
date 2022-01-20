@@ -38,3 +38,11 @@ SushiSwapMultiSwapper: 0x4850Ee9053b50Ec1b65b5082170cB4EB830403CA
 
 [Explorer Link](https://polygonscan.com/address/0x4850ee9053b50ec1b65b5082170cb4eb830403ca)
 
+BalanceFether: 0x783bBe38289269222df3Ea2D5444b2Fcb4a97862
+
+[Explorer Link](https://polygonscan.com/address/0x783bbe38289269222df3ea2d5444b2fcb4a97862)
+
+MultiCall2: 0x474FceCBA1A86923630817754D0bc6E26D43aDB1
+
+[Explorer Link](https://polygonscan.com/address/0x474fcecba1a86923630817754d0bc6e26d43adb1)
+
