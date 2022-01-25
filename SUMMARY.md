@@ -11,6 +11,7 @@
 ## Candle Crossroads
 
 * [Deployment Addresses](candle-crossroads/deployment-addresses.md)
+* [Airswap Deployment](candle-crossroads/airswap-deployment.md)
 
 ## Bridged CNDL
 
