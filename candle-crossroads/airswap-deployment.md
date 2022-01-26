@@ -16,5 +16,9 @@ Wrapper Contract Address: 0xf9EceDD9C2bD1672377475B0383b54e1BAC1489f
 
 [Explorer Link](https://polygonscan.com/address/0xf9ecedd9c2bd1672377475b0383b54e1bac1489f)
 
+Pool Contract Address: 0xc9261B26401158d336d49E3a85BAE6Be4FCe873E
+
+[Explorer Link](https://polygonscan.com/address/0xc9261b26401158d336d49e3a85bae6be4fce873e#code)
+
 
 
