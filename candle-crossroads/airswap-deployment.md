@@ -28,5 +28,9 @@ Staking Contract Address: 0x9D1C5202dD6BF67b3fF775428B6DD8a3D4255737
 
 [Explorer Link](https://polygonscan.com/address/0x9d1c5202dd6bf67b3ff775428b6dd8a3d4255737) (Unverified)
 
+Validator Contract Address: 0xE9eDa973F80322c418230d2f4A8F6b72f6caFfa9
+
+[Explorer Link](https://polygonscan.com/address/0xe9eda973f80322c418230d2f4a8f6b72f6caffa9) (Unverified)
+
 
 
