@@ -24,5 +24,9 @@ Types Contract Address: 0x47cA87b72B431401a06b885243EAaa205CBe8cB0
 
 [Explorer Link](https://polygonscan.com/address/0x47ca87b72b431401a06b885243eaaa205cbe8cb0#code)
 
+Staking Contract Address: 0x9D1C5202dD6BF67b3fF775428B6DD8a3D4255737
+
+[Explorer Link](https://polygonscan.com/address/0x9d1c5202dd6bf67b3ff775428b6dd8a3d4255737) (Unverified)
+
 
 
