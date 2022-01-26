@@ -20,5 +20,9 @@ Pool Contract Address: 0xc9261B26401158d336d49E3a85BAE6Be4FCe873E
 
 [Explorer Link](https://polygonscan.com/address/0xc9261b26401158d336d49e3a85bae6be4fce873e#code)
 
+Types Contract Address: 0x47cA87b72B431401a06b885243EAaa205CBe8cB0
+
+[Explorer Link](https://polygonscan.com/address/0x47ca87b72b431401a06b885243eaaa205cbe8cb0#code)
+
 
 
