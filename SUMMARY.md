@@ -8,16 +8,12 @@
 * [Tokenomics](fundamentals/tokenomics.md)
 * [Governance](fundamentals/governance.md)
 
-## Candle Crossroads
+## Deployment Addresses
 
-* [Deployment Addresses](candle-crossroads/deployment-addresses.md)
-* [Airswap Deployment](candle-crossroads/airswap-deployment.md)
-
-## Bridged CNDL
-
-* [Polygon (MATIC)](bridged-cndl/polygon-matic.md)
-* [xDai](bridged-cndl/xdai.md)
-* [Binance Smart Chain (BSC)](bridged-cndl/binance-smart-chain-bsc.md)
+* [Ethereum (ETH) Mainnet](deployment-addresses/ethereum-eth-mainnet.md)
+* [Polygon (MATIC)](deployment-addresses/polygon-matic.md)
+* [xDai](deployment-addresses/xdai.md)
+* [Binance Smart Chain (BSC)](deployment-addresses/binance-smart-chain-bsc.md)
 
 ## DAO
 
@@ -29,6 +25,12 @@
 
 ## Extras
 
-* [CandleGovernor Raw](extras/candlegovernor-raw.md)
 * [API's & Data Explorers](extras/keyboard-shortcuts.md)
 * [Candle Raw](extras/candle-raw.md)
+* [CandleGovernor Raw](extras/candlegovernor-raw.md)
+* [Deployment Addresses](extras/deployment-addresses.md)
+* [Airswap Deployment](extras/airswap-deployment.md)
+
+***
+
+* [Press Kit](press-kit.md)
