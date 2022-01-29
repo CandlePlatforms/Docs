@@ -46,3 +46,7 @@ MultiCall2: 0x474FceCBA1A86923630817754D0bc6E26D43aDB1
 
 [Explorer Link](https://polygonscan.com/address/0x474fcecba1a86923630817754d0bc6e26d43adb1)
 
+BoringHelperV1: 0x662E08371Aa21eAE6fBf4bBCD597D4C82644e930
+
+[Explorer Link](https://polygonscan.com/address/0x662e08371aa21eae6fbf4bbcd597d4c82644e930#code)
+
