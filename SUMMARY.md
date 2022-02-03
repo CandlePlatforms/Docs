@@ -13,6 +13,7 @@
 * [Ethereum (ETH) Mainnet](deployment-addresses/ethereum-eth-mainnet.md)
 * [Polygon (MATIC)](deployment-addresses/polygon-matic.md)
 * [xDai](deployment-addresses/xdai.md)
+* [Algorand ASA](deployment-addresses/algorand-asa.md)
 * [Binance Smart Chain (BSC)](deployment-addresses/binance-smart-chain-bsc.md)
 
 ## DAO
