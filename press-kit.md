@@ -39,3 +39,9 @@ Raw URL: https://discord.gg/candle
 Raw URL: https://github.com/candleplatforms
 
 {% embed url="https://github.com/candleplatforms" %}
+
+#### Logo Link
+
+Raw URL: [https://i.ibb.co/86yLQRZ/candlelogo.png](https://i.ibb.co/86yLQRZ/candlelogo.png)
+
+{% embed url="https://i.ibb.co/86yLQRZ/candlelogo.png" %}
