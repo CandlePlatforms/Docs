@@ -34,6 +34,7 @@
 
 ## Exchanges
 
+* [Knox](exchanges/knox.md)
 * [Nomics](exchanges/nomics.md)
 * [Tokpie](exchanges/tokpie.md)
 
