@@ -32,6 +32,11 @@
 * [Deployment Addresses](extras/deployment-addresses.md)
 * [Airswap Deployment](extras/airswap-deployment.md)
 
+## Exchanges
+
+* [Nomics](exchanges/nomics.md)
+* [Tokpie](exchanges/tokpie.md)
+
 ***
 
 * [Press Kit](press-kit.md)
