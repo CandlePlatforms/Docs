@@ -12,5 +12,11 @@
 
 
 
-[Etherscan Link to Candle\
+[Etherscan Link to Candle](https://etherscan.io/token/0xbc138bd20c98186cc0342c8e380953af0cb48ba8)
+
+
+
+[https://api.nomics.com/v1/currencies/ticker?key=5c0b53f4ef4d780e0e54f8aec6087552f2b8d535\&ids=CNDL2\&interval=1h,1d\&convert=EUR\&platform-currency=ETH\&per-page=100\&page=1%22](https://api.nomics.com/v1/currencies/ticker?key=5c0b53f4ef4d780e0e54f8aec6087552f2b8d535\&ids=CNDL2\&interval=1h,1d\&convert=EUR\&platform-currency=ETH\&per-page=100\&page=1%22)
+
+[\
 ](https://etherscan.io/token/0xbc138bd20c98186cc0342c8e380953af0cb48ba8)
