@@ -34,6 +34,7 @@
 
 ## Exchanges
 
+* [LiveCoinWatch](exchanges/livecoinwatch.md)
 * [Knox](exchanges/knox.md)
 * [Nomics](exchanges/nomics.md)
 * [Tokpie](exchanges/tokpie.md)

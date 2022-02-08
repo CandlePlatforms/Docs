@@ -12,19 +12,29 @@ description: For media/press or partnership integrations.
 
 Raw URL: https://twitter.com/candle\_labs
 
+
+
 #### Candle Instagram:
+
+Raw URL: https://instagram.com/candlelabs
 
 {% embed url="https://instagram.com/candlelabs" %}
 
 #### Candle Reddit
 
+Raw URL: https://reddit.com/r/cndl
+
 {% embed url="https://reddit.com/r/cndl" %}
 
 #### Candle Docs
 
+Raw URL: https://docs.candlelabs.org
+
 {% embed url="https://docs.candlelabs.org" %}
 
 #### Candle Telegram
+
+Raw URL: https://t.me/candlelabs
 
 {% embed url="https://t.me/candlelabs" %}
 
@@ -36,9 +46,9 @@ Raw URL: https://discord.gg/candle
 
 #### Candle Github
 
-Raw URL: https://github.com/candleplatforms
+Raw URL: https://github.com/candleprotocol
 
-{% embed url="https://github.com/candleplatforms" %}
+{% embed url="https://github.com/candleprotocol" %}
 
 #### Logo Link
 
